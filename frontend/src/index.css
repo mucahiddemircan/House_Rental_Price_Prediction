@@ -1,0 +1,8 @@
+/* Reset and base styles */
+* {
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100%;
+}
